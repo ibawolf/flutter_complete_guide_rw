@@ -12,12 +12,12 @@
 migrate_working_dir/
 pubspec.lock
 
-windows/
-ios/
-macos/
-android/
-linux/
-web/
+*/windows/
+*/ios/
+*/macos/
+*/android/
+*/linux/
+*/web/
 
 # IntelliJ related
 *.iml
