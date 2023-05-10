@@ -1,0 +1,39 @@
+{
+  "products": {
+    "-NU2UgVKkNEuPSNyXE7A": {
+      "description": "A red shirt - it is pretty red!",
+      "imageUrl": "https://i5.walmartimages.com/asr/21474cb5-d3a9-4b25-89a0-8e1ba8e5b677.4c58ebe893fcac68bb14fbfab374cd2b.jpeg",
+      "isFavorite": false,
+      "price": 19.99,
+      "title": "Red Shirt!!"
+    },
+    "-NU2UuoRipUzZrAiuiLt": {
+      "description": "Prepare any meal you want",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Cast-Iron-Pan.jpg/1024px-Cast-Iron-Pan.jpg",
+      "isFavorite": false,
+      "price": 49.99,
+      "title": "A Pan"
+    },
+    "-NU2VUz6IIAP4hmsICb0": {
+      "description": "An electric motorcycle, get you where you want to go",
+      "imageUrl": "https://cdn.shopify.com/s/files/1/1439/6088/files/META-Testimonials-D_jpg_954002a9-6a0a-4161-90f1-c487c8f9182b.jpg?v=1664315263&width=960",
+      "isFavorite": true,
+      "price": 5000,
+      "title": "Sondors Metacycle"
+    },
+    "-NU2gxd_31fAWylAMW0o": {
+      "description": "Warm and cozy - exactly what you need for the winter.",
+      "imageUrl": "https://live.staticflickr.com/4043/4438260868_cc79b3369d_z.jpg",
+      "isFavorite": false,
+      "price": 19.99,
+      "title": "Yellow Scarf"
+    },
+    "-NU2hB7sxHsgFtVE_3uy": {
+      "description": "A nice pair of trousers.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Trousers%2C_dress_%28AM_1960.022-8%29.jpg/512px-Trousers%2C_dress_%28AM_1960.022-8%29.jpg",
+      "isFavorite": false,
+      "price": 59.99,
+      "title": "Trousers"
+    }
+  }
+}

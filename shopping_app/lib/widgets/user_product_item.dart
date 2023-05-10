@@ -41,7 +41,7 @@ class UserProductItem extends StatelessWidget {
                   scaffold_messenger.showSnackBar(
                     SnackBar(
                       content: Text(
-                        'Product Deletion Failed!',
+                        'Deleting failed!',
                         textAlign: TextAlign.center,
                       ),
                     ),
